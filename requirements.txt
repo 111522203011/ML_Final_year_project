@@ -5,6 +5,6 @@ scipy
 scikit-learn
 joblib
 matplotlib
-transformers
-torch
 pandas
+transformers==4.36.2
+torch==2.1.2
